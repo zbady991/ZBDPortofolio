@@ -178,7 +178,7 @@ Egypt · [bedoobadr997@gmail.com](mailto:bedoobadr997@gmail.com)
 
 ---
 
-## بالعربية — الفكرة باختصار
+##— الفكرة باختصار
 
 ده بورتفوليو شخصي لمتخصص AI و Data Science، مبني بـ **Next.js 15** و **React 19** و **TypeScript**.
 
